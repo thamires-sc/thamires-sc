@@ -9,7 +9,9 @@ About me:
 
 ✨ Passionate about problem-solving and designing effective software solutions
 
-🌱 Focused on backend development
+🚀 Focused on backend development
+
+🌱 Always learning and improving.
 
 <br />
 
@@ -31,6 +33,7 @@ Skills:
 
 <br />
 <br />
+
 
 Connect with me:
 <p align="left">
