@@ -11,7 +11,7 @@ About me:
 
 🚀 Focused on backend development
 
-🌱 Always learning and improving.
+🌱 Always learning and improving
 
 <br />
 
